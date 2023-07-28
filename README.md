@@ -51,4 +51,5 @@ To use the code and resources in this repository, make sure you have the require
 
 Contributions are highly appreciated! If you find any issues with the code or have suggestions for improvements, feel free to submit an issue or pull request.
 
-![Your AI Image](https://your-image-link.com)
+![NUMERICAL METHODS](https://github.com/shihabmuhtasim/Cse422-Artificial-Intelligence/assets/92597456/7290e27f-7591-438d-a2e0-c69419f7dfb7)
+
