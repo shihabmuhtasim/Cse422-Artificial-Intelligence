@@ -1,10 +1,10 @@
 # CSE 422 - Artificial Intelligence
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/CSE422-Artificial-Intelligence?color=f5f5dc) 
-![GitHub language count](https://img.shields.io/github/languages/count/yourusername/CSE422-Artificial-Intelligence?color=f5f5dc) 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/CSE422-Artificial-Intelligence?color=f5f5dc) 
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/yourusername/CSE422-Artificial-Intelligence?color=f5f5dc)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/CSE422-Artificial-Intelligence?color=f5f5dc)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/CSE422-Artificial-Intelligence?style=social)
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/CSE422-Artificial-Intelligence?color=f5f5dc) 
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/CSE422-Artificial-Intelligence?color=f5f5dc) 
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/CSE422-Artificial-Intelligence?color=f5f5dc) 
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/CSE422-Artificial-Intelligence?color=f5f5dc)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/CSE422-Artificial-Intelligence?color=f5f5dc)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/CSE422-Artificial-Intelligence?style=social)
 
 This repository contains code and resources related to the CSE 422 - Artificial Intelligence course, focusing on concepts in artificial intelligence, knowledge representation, search and control techniques, AI languages, and expert systems.
 
